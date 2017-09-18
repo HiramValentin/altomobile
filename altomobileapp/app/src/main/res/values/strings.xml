@@ -3,4 +3,6 @@
     <string name="brand">Alto Mobile</string>
     <string name="facebook_app_id">853113934852540</string>
     <string name="fb_login_protocol_scheme">fb853113934852540</string>
+    <string name="animal_button">Animal list</string>
+    <string name="email">Email:</string>
 </resources>
